@@ -9,9 +9,10 @@ Aplicação Web destinada a interagir com o usuário e consumir serviços do Bac
 ## Como Executar Esta Aplicação
 
 É necessário ter instalado:<br/>
-**NODE JS**
-**ANGULAR**
+- **NODE JS**<br/>
+- **ANGULAR**
 
+**Passos:**
 1. Clone ou baixe a aplicação.
 2. Para instalar as dependências do projeto, dentro do diretório da aplicação execute o comando:<br/>
     > npm install
